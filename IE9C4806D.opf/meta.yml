@@ -1,0 +1,23 @@
+id: IE9C4806D
+initial_creation_type: ebook
+source_metadata:
+  id: KHA-DO-30
+  title: ལྷ་རྗེ་ཚུལ་ཁྲིམས་འོད་ལ་གདམས་པ།
+  author: མཛད་པ་པོ། ༧ཇོ་ནང་ཀུན་མཁྱེན་དོལ་པོ་སངས་རྒྱས།
+  authors: &id001
+  - མཛད་པ་པོ། ༧ཇོ་ནང་ཀུན་མཁྱེན་དོལ་པོ་སངས་རྒྱས།
+  sku: KHA-DO-30
+  cover: KHA-DO-30.jpg
+  volume: {}
+ebook_metadata:
+  title: ལྷ་རྗེ་ཚུལ་ཁྲིམས་འོད་ལ་གདམས་པ།
+  authors: *id001
+  sku: KHA-DO-30
+  cover: KHA-DO-30.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Commentary
+- Sabche
+- Yigchung
